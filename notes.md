@@ -73,6 +73,6 @@ git push -u origin main
 
 ##### 7.git push -u origin main
 
-![image-20241214201339302](C:/Users/James/AppData/Roaming/Typora/typora-user-images/image-20241214201339302.png)
+![image-20241214201339302](images/image-20241214201339302.png)
 
-![image-20241214201401157](C:/Users/James/AppData/Roaming/Typora/typora-user-images/image-20241214201401157.png)
+![image-20241214201401157](images/image-20241214201401157.png)
