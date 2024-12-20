@@ -1,4 +1,4 @@
-﻿﻿﻿今天学习了Git的基本操作
+﻿﻿﻿﻿今天学习了Git的基本操作
 主要是用于GitHub的一些简介什么的
 创建repository后一般会教你
 
@@ -78,4 +78,3 @@ git push -u origin main
 ![image-20241214201401157](images/image-20241214201401157.png)
 
 ![image-20241214201401157](images/image-20241214154345902.png)
-"note update" 
